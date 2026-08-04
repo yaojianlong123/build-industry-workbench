@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业工作台生成器"
+  short_description: "从需求访谈、页面设计到视觉规范，全程引导创建行业工作台"
+  default_prompt: "Use $build-industry-workbench to guide me from initial needs to a complete industry workbench design."
